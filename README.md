@@ -21,3 +21,6 @@ transactions
 • TX, NY & CA is contributing to 68%
 • Overall Activation rate is 57.5%
 • Overall Delinquent rate is 6.06%
+
+![image](https://github.com/user-attachments/assets/59087f25-618c-4cf6-9331-b81f022d822b)
+
