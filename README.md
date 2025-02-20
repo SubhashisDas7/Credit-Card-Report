@@ -23,4 +23,6 @@ transactions
 • Overall Delinquent rate is 6.06%
 
 ![image](https://github.com/user-attachments/assets/59087f25-618c-4cf6-9331-b81f022d822b)
+![image](https://github.com/user-attachments/assets/105c9b00-55db-4019-ab46-2c5fe5c26afd)
+
 
